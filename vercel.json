@@ -1,0 +1,23 @@
+{
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
+      ]
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/medison-pharma",
+      "destination": "/medison-pharma-seo-analysis-2025.html"
+    },
+    {
+      "source": "/medison",
+      "destination": "/medison-pharma-seo-analysis-2025.html"
+    }
+  ]
+}
