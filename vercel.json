@@ -18,6 +18,14 @@
     {
       "source": "/medison",
       "destination": "/medison-pharma-seo-analysis-2025.html"
+    },
+    {
+      "source": "/medison-hebrew-seo",
+      "destination": "/medison-hebrew-seo-response.html"
+    },
+    {
+      "source": "/hebrew-seo",
+      "destination": "/medison-hebrew-seo-response.html"
     }
   ]
 }
